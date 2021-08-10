@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karnav Pargi</h1>
-<h3 align="center">I am working as a Software developer since 2017. and completed more than 7 projects till the date. I had started my journey as a JavaScript Developer in 2017 and then continue worked on the different languages like NodeJS, ExpressJS, MongoDB, MySQL. from last 4 years i am working on MEAN Stack projects.</h3>
+<h3 align="center">I am working as a Software developer since 2017. and completed more than 7 projects till the date. I had started my journey as a JavaScript Developer in 2017 and then continue worked on the different languages like NodeJS, ExpressJS, MongoDB, MySQL.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karnav-pargi&label=Profile%20views&color=0e75b6&style=flat" alt="karnav-pargi" /> </p>
 
