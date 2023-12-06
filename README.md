@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Karnav Pargi</h1>
 <h3 align="center">
-🔶  Software Developer with 5+ years total experience in MEAN-Stack technology  🔶
+🔶  Software Developer with 6.5+ years total experience in Full-Stack Development 🔶
 
 Started career as NodeJS Developer
 
-Last 2+ years also get chance to include React.js and Angular technologies in skills list
 </h3>
 
 ![](https://komarev.com/ghpvc/?username=karnavpargi&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 - 🌱 I’m currently learning **ReactJS, NextJS**
 
-- 💬 Ask me about **NodeJS, NestJS, MongoDB, GraphQL, Angular, AWS**
+- 💬 Ask me about **Angular v6+, Node.js, Nest.js, MongoDB, GraphQL, AWS, React.js, Next.js**
 
 ---
 <h3 align="left">Connect with me:</h3>
