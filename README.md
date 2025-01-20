@@ -8,7 +8,7 @@ Started career as NodeJS Developer
 
 ![](https://komarev.com/ghpvc/?username=karnavpargi&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
-- 🌱 I’m currently learning **ReactJS, NextJS**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **Angular v6+, Node.js, Nest.js, MongoDB, GraphQL, AWS, React.js, Next.js**
 
