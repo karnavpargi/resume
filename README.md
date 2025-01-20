@@ -10,7 +10,7 @@ Started career as NodeJS Developer
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Angular v6+, Node.js, Nest.js, MongoDB, GraphQL, AWS, React.js, Next.js**
+- 💬 Ask me about **Angular v2+, Node.js, Nest.js, MongoDB, GraphQL, AWS, React.js, Next.js**
 
 ---
 <h3 align="left">Connect with me:</h3>
