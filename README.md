@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karnav Pargi</h1>
 <h3 align="center">
-🔶  Software Developer with 6.5+ years total experience in Full-Stack Development 🔶
+🔶  Software Developer with 8+ years total experience in Full-Stack Development 🔶
 
 Started career as NodeJS Developer
 
